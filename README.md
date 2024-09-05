@@ -5,7 +5,7 @@ ___
 `docker-compose up build -d`
 
 ## WIP Matching Implementation
-
+[whiteboarding](https://whimsical.com/mentforship-matching-whiteboarding-Qocue4he1K1aog1SA6Qhuv)
 
 ___
 # Mentorship Concepts
@@ -21,13 +21,22 @@ The separation of **skills** and **practices** also allows for the identificatio
 --
 # Running a round of Mentforship
 ## Step 1: Intake
-Participants fill out a form indicating the role(s) they are open to and what they would like their **focus** to be for the round of Mentorship. Mentors are required to answer to their availability, as Mentors may have more than one mentee.
+Participants fill out a form indicating the role(s) they are open to (Mentor, Mentee, or Both) and what they would like their **focus** to be for the round of Mentorship.
 
-After electing their preferred role, (Mentor, Mentee, nonexclusive) each participant can select up to 3 **skills** and up to 3 **practices**. If the participant is open to the Mentor role, they will need to additionally select up to 3 focuses to teach, as well as their relative experience level on a scale of 1 to 3, 1 being intermediate, 2 being advanced, and 3 being expert.
+### Mentee Intake
+After electing their preferred role, each participant can select up to 3 **skills** and up to 3 **practices**. For each skill, the Mentee should indicate their **expertise** on a scale of 1 to 3, 1 being a novice, 2 being a beginner, and 3 being intermediate. This encourages peer mentorship, as sometimes it's easier to learn from someone right ahead of you than it is an aged master.
+
+### Mentor Intake
+If the participant is open to the Mentor role, they will need to additionally select up to 3 focuses to teach, as well as their relative **expertise** on a scale of 1 to 3, 1 being intermediate, 2 being advanced, and 3 being expert.
+
+Mentors are required to answer to their availability, as Mentors may have more than one mentee.
+
 
 Skill and Practice lists should be catered to your team's stack and area of expertise, and may even include institutional, org specific knowledge. It is also recommended to include freefill questions to gauge if participants have a desire to learn something unlisted. Changes to the focus list are expected over time.
 
-([See Example with suggested Skills and Practices here](https://docs.google.com/forms/d/e/1FAIpQLSebKhW5bGSWGeQe84dIS3OlagNi3XRysBW6wq3eEP8mQl2eiA/viewform?usp=send_form)) 
+([See Example Intake Skills and Practices here](https://docs.google.com/forms/d/e/1FAIpQLSebKhW5bGSWGeQe84dIS3OlagNi3XRysBW6wq3eEP8mQl2eiA/viewform?usp=send_form)) 
+
+Fell free to make a copy of the above form and update the accepted list of skills and practices as needed. 
 
 
 ## Step 2: Matching
