@@ -16,10 +16,12 @@ Each round of mentforship, participants select their ranked choice of **focuses*
 
 Focuses are split into **skills**, the hard technical skills used to work in tech, and **practices**, the soft skills and concepts behind workflow, architechture, leadership, management, etc. Participant pairings with a **skill focus** are encouraged to create a small working project or Proof of Concept together. Participant pairings with a **practice focus** are encouraged to meet frequently to allow for thorough exploration of the topic via conversation. 
 
-The separation of **skills** and **practices** also allows for the identification of talents and skillsets that do not fall strictly within the bounds of technology, like identity based experiences--such as of navigating the Tech Industry as a person of color, as someone with a disability, dealing with ageism, etc. 
+The separation of **skills** and **practices** also allows for the identification of talents and skillsets that do not fall strictly within the bounds of technology, like identity based experiences--such as of navigating the Tech Industry as a person of color, as someone with a disability, dealing with ageism, etc.
 
 --
 # Running a round of Mentforship
+The recommended timeline for one round of Mentorship is 3-4 Months, or 1 Quarter.
+
 ## Step 1: Intake
 Participants fill out a form indicating the role(s) they are open to (Mentor, Mentee, or Both) and what they would like their **focus** to be for the round of Mentorship.
 
@@ -34,7 +36,7 @@ Mentors are required to answer to their availability, as Mentors may have more t
 
 Skill and Practice lists should be catered to your team's stack and area of expertise, and may even include institutional, org specific knowledge. It is also recommended to include freefill questions to gauge if participants have a desire to learn something unlisted. Changes to the focus list are expected over time.
 
-([See Example Intake Skills and Practices here](https://docs.google.com/forms/d/e/1FAIpQLSebKhW5bGSWGeQe84dIS3OlagNi3XRysBW6wq3eEP8mQl2eiA/viewform?usp=send_form)) 
+[See Example Intake Form here](https://forms.gle/HdPC6krdjBcbc91j7)
 
 Fell free to make a copy of the above form and update the accepted list of skills and practices as needed. 
 
